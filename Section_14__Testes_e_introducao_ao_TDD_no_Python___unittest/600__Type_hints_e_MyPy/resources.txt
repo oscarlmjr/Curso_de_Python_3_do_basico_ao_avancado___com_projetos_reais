@@ -1,0 +1,8 @@
+typehinting.py
+https://gist.github.com/luizomf/3692af8aba7bfc1747111487889c874e
+
+
+typing — Support for type hints
+https://docs.python.org/3/library/typing.html
+
+

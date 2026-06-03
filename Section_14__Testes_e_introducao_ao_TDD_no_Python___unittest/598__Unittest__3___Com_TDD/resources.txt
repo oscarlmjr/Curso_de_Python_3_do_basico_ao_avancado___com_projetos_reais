@@ -1,0 +1,5 @@
+setUp()
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.setUp
+
+debug()
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.debug
