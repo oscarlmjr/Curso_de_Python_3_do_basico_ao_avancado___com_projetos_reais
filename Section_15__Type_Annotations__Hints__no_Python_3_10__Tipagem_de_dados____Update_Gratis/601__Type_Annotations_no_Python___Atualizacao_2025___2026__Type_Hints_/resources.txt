@@ -1,0 +1,5 @@
+Curso de Type Hints no Python do Básico Ao Avançado
+https://www.youtube.com/playlist?list=PLbIBj8vQhvm04EuddtleOAoEmfU9vwQlN
+
+Type annotations - Tipagem de dados no Python 3.10
+https://www.youtube.com/watch?v=2j_Q1k75tIo
