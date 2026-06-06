@@ -1,0 +1,8 @@
+typehints_python
+https://github.com/luizomf/typehints_python
+
+ambiente_python_2025
+https://github.com/luizomf/ambiente_python_2025/tree/main
+
+
+
