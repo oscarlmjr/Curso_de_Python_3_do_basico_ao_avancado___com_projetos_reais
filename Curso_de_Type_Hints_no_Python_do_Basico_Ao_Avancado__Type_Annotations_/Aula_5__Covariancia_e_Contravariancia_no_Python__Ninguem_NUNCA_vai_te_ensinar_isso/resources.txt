@@ -1,0 +1,8 @@
+Python: criando um iterável + iterator do zero (protocolos de métodos mágicos)
+https://www.youtube.com/watch?v=8xnIkjROj_o
+
+collections.abc — Abstract Base Classes for Containers
+https://docs.python.org/3/library/collections.abc.html
+
+Standard Generic Classes
+https://docs.python.org/3/library/stdtypes.html#standard-generic-classes
