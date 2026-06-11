@@ -1,6 +1,6 @@
 [submodule "Section_8_aula403"]
 	path = Section_8_aula403
-	url = https://github.com/oscarlmjr/Curso_de_Python_3_do_basico_ao_avancado___com_projetos_reais/blob/main/Section_8_aula403
+	url = git@github.com:oscarlmjr/Curso_de_Python_3_Section_8_aula403.git 
 [submodule "Section_15__ambiente_python_2025"]
 	path = Section_15__ambiente_python_2025
-	url = https://github.com/oscarlmjr/Curso_de_Python_3_do_basico_ao_avancado___com_projetos_reais/blob/main/Section_8_aula403
+	url =  git@github.com:oscarlmjr/Curso_de_Python_3_Section_15__ambiente_python_2025.git 
