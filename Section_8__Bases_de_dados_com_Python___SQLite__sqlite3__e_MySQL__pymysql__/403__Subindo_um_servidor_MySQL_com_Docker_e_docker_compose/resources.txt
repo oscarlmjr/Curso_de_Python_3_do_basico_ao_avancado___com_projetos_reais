@@ -4,3 +4,5 @@ mysql server 8.0.32.0msi
 dbeaver 23.0.1
 
 https://github.com/luizomf/cursopython2023/commit/166b46fa400c34b8f879c15eefff1a3572b9573f
+
+https://github.com/luizomf/cursopython2023/tree/main/aula205
