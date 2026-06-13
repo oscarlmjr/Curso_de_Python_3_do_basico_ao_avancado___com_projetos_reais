@@ -4,3 +4,6 @@
 [submodule "Section_15__ambiente_python_2025"]
 	path = Section_15__ambiente_python_2025
 	url =  git@github.com:oscarlmjr/Curso_de_Python_3_Section_15__ambiente_python_2025.git 
+[submodule "Section_9__ola_django"]
+	path = Section_9__ola_django
+	url = git@github.com:oscarlmjr/Python_3_Section_9__ola_django.git
