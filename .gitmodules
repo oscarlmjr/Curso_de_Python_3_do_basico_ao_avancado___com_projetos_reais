@@ -13,3 +13,6 @@
 [submodule "Section_12__projeto-blog-django_23"]
 	path = Section_12__projeto-blog-django_23
 	url = git@github.com:oscarlmjr/Python_3_Section_12__projeto-blog-django_23.git
+[submodule "Section_13__projeto-ecommerce"]
+	path = Section_13__projeto-ecommerce
+	url = git@github.com:oscarlmjr/Section_13__projeto-ecommerce.git
