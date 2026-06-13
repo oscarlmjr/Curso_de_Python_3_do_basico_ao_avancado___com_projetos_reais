@@ -1,0 +1,4 @@
+https://github.com/luizomf/projeto-agenda-django-23/tree/3c5ba6b8ec26f15fdbf48826f394bbad59b0448e
+
+Pagination
+https://docs.djangoproject.com/en/4.2/topics/pagination/

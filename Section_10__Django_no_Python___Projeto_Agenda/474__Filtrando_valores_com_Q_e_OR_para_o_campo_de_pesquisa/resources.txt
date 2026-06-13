@@ -1,0 +1,4 @@
+icontains
+https://docs.djangoproject.com/en/4.2/ref/models/querysets/#field-lookups
+
+https://github.com/luizomf/projeto-agenda-django-23/tree/461936753a7490331d1393e85d5e0275a8a519a2

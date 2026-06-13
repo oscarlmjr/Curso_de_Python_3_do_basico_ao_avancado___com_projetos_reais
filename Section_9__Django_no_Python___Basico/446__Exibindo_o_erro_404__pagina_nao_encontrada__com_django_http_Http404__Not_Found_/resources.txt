@@ -1,0 +1,4 @@
+https://github.com/luizomf/cursopython2023/tree/44ad292e0b9ad1f6aa4aa167b6885b18bb3894dd/aula207_ola_django
+
+HTTP response status codes
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status#server_error_responses

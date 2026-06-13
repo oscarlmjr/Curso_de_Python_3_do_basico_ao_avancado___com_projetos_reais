@@ -1,0 +1,4 @@
+https://github.com/luizomf/cursopython2023/tree/8a9fdecb25ef06775d25cd8b6a387a7241aab4e8/aula207_ola_django
+
+QuickStart for Django apps
+https://whitenoise.readthedocs.io/en/latest/

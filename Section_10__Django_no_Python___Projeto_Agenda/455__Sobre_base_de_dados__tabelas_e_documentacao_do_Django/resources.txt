@@ -1,0 +1,5 @@
+Models
+https://docs.djangoproject.com/pt-br/6.0/topics/db/models/
+
+Model field reference
+https://docs.djangoproject.com/pt-br/6.0/ref/models/fields/#field-choices

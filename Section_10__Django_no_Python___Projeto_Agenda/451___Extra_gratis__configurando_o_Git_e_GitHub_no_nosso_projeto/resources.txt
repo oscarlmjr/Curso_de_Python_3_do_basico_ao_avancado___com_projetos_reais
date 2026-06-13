@@ -1,0 +1,4 @@
+https://github.com/luizomf/projeto-agenda-django-23/tree/5defd86e31a2f6db22718dc310fa9b6c1e3a0c9a
+
+Git + Github + SSH (Básico)
+https://www.youtube.com/watch?v=SnTBOhYFr28

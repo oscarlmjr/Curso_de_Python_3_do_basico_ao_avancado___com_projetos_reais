@@ -1,0 +1,3 @@
+https://github.com/luizomf/cursopython2023/tree/71036bfd44d052823631f749f14e3f8ca99c01df/aula207_ola_django
+
+https://jsonplaceholder.typicode.com/

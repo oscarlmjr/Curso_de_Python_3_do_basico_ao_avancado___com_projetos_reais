@@ -1,0 +1,7 @@
+https://github.com/luizomf/projeto-agenda-django-23/commit/8040e7279b8dcd774b3b0fa8855a8e656afacae9
+
+Cross-site request forgery
+https://pt.wikipedia.org/wiki/Cross-site_request_forgery
+
+Cross Site Request Forgery protection
+https://docs.djangoproject.com/en/6.0/ref/csrf/

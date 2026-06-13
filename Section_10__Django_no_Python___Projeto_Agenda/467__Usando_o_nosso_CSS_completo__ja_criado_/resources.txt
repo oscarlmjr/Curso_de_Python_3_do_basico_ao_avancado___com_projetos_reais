@@ -1,0 +1,1 @@
+https://github.com/luizomf/projeto-agenda-django-23/blob/c205c5dc9c4c1acce70f060add67c68749f6d296/base_static/global/css/style.css

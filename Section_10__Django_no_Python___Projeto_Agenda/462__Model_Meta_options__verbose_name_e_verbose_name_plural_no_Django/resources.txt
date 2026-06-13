@@ -1,0 +1,7 @@
+https://github.com/luizomf/projeto-agenda-django-23/blob/eb806f1cbc445bb96c1865c4487ff6ee465bbc2d/contact/models.py
+
+Model Meta options
+https://docs.djangoproject.com/pt-br/4.2/ref/models/options/
+
+Como traduzir ou atualizar traduções do Django Web Framework
+https://www.youtube.com/watch?v=iIsLwz_vkzA

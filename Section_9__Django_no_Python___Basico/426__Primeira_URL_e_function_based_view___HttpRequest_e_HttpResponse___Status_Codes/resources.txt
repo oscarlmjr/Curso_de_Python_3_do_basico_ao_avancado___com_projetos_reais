@@ -1,0 +1,4 @@
+https://github.com/luizomf/cursopython2023/tree/d4b81d488ab823ec90aaa950469a9137b4fcf6f7/aula207_ola_django
+
+Códigos de status de respostas HTTP
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Status

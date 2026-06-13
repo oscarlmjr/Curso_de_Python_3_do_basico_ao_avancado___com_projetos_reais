@@ -1,0 +1,7 @@
+https://github.com/luizomf/cursopython2023/tree/a38811fbd1996bff360f605ef0b0a42272e2e381/aula207_ola_django
+
+CSS Grid - Curso de HTML e CSS - Aula 33
+https://www.youtube.com/watch?v=odYCJU6NHss
+
+CSS Grid - Tudo o que você precisa saber
+https://www.youtube.com/watch?v=R_dqkhX7WbU
