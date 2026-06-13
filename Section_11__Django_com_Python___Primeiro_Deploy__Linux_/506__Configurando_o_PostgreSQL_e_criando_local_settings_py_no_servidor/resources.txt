@@ -1,0 +1,7 @@
+Instalando e configurando o PostgreSQL (com SSL)
+https://www.youtube.com/watch?v=VLpPLaGVJhI
+
+Configurando SSH para acesso ao PostgreSQL
+https://www.youtube.com/watch?v=FZaEukN_raA
+
+https://github.com/luizomf/projeto-agenda-django-23/commit/4606084987998920bea0d32b5072abaec1a214d5

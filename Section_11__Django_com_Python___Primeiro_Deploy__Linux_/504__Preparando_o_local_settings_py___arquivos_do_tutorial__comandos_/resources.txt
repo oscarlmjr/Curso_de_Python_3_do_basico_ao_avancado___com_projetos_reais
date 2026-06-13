@@ -1,0 +1,5 @@
+Configuração para deploy
+https://github.com/luizomf/projeto-agenda-django-23/blob/c59af312ef77d381659f9a7e7ba2e46df1a5f2f3/comandos/SERVER.md
+
+local_settings.py
+https://gist.github.com/luizomf/9449e523ab0fe63c9ce43c8e271c669f
