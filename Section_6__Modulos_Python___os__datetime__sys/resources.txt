@@ -1,0 +1,27 @@
+cz9T4e2L1uqieiX155Lx
+
+python -c "import string as s;from secrets import SystemRandom as SR;print(''.join(SR().choices(s.ascii_letters+s.digits+s.punctuation,k=64)));"
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+ssh-keygen
+/c/Users/oscar/.ssh/oscarlmjr_note
+
+git init
+git config --global user.name "oscarlmjr"
+git config --global user.email "oscarlmjr@gmailcom"
+
+git remote add origin git@github.com:oscarlmjr/Section_11__Django_corn_Python___Primeiro_Deploy__Linux_.git
+git remote -v
+git remote set-url origin git@github.com:oscarlmjr/Section_11__Django_corn_Python___Primeiro_Deploy__Linux_.git
+eval $(ssh-agent)
+ssh-add ~/.ssh/oscarlmjr_note
+git pull origin
+git push --set-upstream --force origin main
+
+
+python -m venv .venv
+.venv/Scripts/activate
+pip install django
+pip install pillow
+python manage.py runserver
