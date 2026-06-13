@@ -1,0 +1,4 @@
+https://github.com/luizomf/projeto-blog-django-23/commit/cc3c926c427dee9643e97531d5fa3fbce41316c4
+
+TypeScript - uma longa introdução
+https://otaviomiranda.com.br/2020/typescript-uma-longa-introducao/

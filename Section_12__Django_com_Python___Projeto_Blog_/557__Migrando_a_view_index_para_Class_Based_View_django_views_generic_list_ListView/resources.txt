@@ -1,0 +1,4 @@
+https://github.com/luizomf/projeto-blog-django-23/commit/bd0e785bd109bf75c0c4cadbfa7de61964fc25a3
+
+API nativa de views baseadas em classes
+https://docs.djangoproject.com/pt-br/4.2/ref/class-based-views/

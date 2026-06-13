@@ -1,0 +1,5 @@
+Django 4.2.1
+https://pypi.org/project/Django/
+
+psycopg2-binary 2.9.6
+https://pypi.org/project/psycopg2-binary/

@@ -1,0 +1,9 @@
+projeto-blog-django-23/Dockerfile
+https://github.com/luizomf/projeto-blog-django-23/blob/b3c6a75aaa73e84face8cf11ae9bdc3ff53e9570/Dockerfile
+
+Docker Hardened Images - Now Free
+python:3.11.3-alpine3.18
+https://hub.docker.com/_/python
+
+Usuários, grupos e permissões no Linux (Ubuntu)
+https://www.youtube.com/watch?v=S2h92LNcEz8

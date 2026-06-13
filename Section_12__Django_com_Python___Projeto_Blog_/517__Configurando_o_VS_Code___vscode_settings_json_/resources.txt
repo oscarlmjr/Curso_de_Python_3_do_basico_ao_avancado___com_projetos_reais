@@ -1,0 +1,1 @@
+https://github.com/luizomf/projeto-blog-django-23/blob/eb123c3de6b125d3f1f7c525f018c58ceea00b0c/.vscode/settings.json

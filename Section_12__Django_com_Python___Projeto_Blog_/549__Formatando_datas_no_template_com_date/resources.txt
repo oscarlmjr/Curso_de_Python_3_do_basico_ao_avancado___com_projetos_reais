@@ -1,0 +1,4 @@
+https://github.com/luizomf/projeto-blog-django-23/commit/292f4ceccf63089d3f965556e9b1c9e657354785
+
+date
+https://docs.djangoproject.com/en/4.2/ref/templates/builtins/#date

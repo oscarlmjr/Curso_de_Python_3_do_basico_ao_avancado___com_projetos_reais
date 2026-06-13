@@ -1,0 +1,1 @@
+https://github.com/luizomf/projeto-blog-django-23/commit/1c25b05fd22840803fc87c1194c33fd39cd633ee

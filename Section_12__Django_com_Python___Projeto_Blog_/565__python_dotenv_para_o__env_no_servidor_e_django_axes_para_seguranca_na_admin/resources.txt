@@ -1,0 +1,8 @@
+django-axes
+https://django-axes.readthedocs.io/en/latest/4_configuration.html
+
+python-dotenv 1.2.2
+https://pypi.org/project/python-dotenv/
+
+https://github.com/luizomf/projeto-blog-django-23/commit/54ce44288356626a1268c91dc90f9c9f5715611a
+

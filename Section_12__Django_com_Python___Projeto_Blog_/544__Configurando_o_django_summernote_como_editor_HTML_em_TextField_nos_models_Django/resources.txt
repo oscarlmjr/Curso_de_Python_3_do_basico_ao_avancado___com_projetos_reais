@@ -1,0 +1,7 @@
+https://github.com/luizomf/projeto-blog-django-23/commit/ca6f61fa05335edda875a3c704eeab4e415de017
+
+django-summernote
+https://github.com/lqez/django-summernote
+
+@uiw/codemirror-theme-dracula
+https://www.jsdelivr.com/package/npm/@uiw/codemirror-theme-dracula

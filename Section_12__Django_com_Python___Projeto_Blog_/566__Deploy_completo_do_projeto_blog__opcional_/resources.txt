@@ -1,0 +1,4 @@
+https://github.com/luizomf/projeto-agenda-django-23/tree/main/comandos
+
+Disqus
+https://disqus.com/

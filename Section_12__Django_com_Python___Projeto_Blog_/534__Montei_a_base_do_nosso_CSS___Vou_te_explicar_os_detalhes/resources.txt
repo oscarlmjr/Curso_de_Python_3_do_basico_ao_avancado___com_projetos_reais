@@ -1,0 +1,8 @@
+https://github.com/luizomf/projeto-blog-django-23/commit/752253ceb7ec1e0ae8e8fa4c2230b63d793301a5
+
+Lorem Ipsum Generator
+https://loremipsum.io/
+
+The Clamp Calculator 🧮
+Calculate a Fluid Typography Scale
+https://royalfig.github.io/fluid-typography-calculator/

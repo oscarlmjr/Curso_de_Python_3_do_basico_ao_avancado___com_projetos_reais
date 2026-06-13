@@ -1,0 +1,4 @@
+https://github.com/luizomf/projeto-blog-django-23/commit/c09681cb57afcd8019100e200a7381fc41b83525
+
+Lorem Ipsum Generator
+https://www.freeformatter.com/lorem-ipsum-generator.html#before-output

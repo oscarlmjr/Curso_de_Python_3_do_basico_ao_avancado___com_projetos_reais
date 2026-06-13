@@ -1,0 +1,7 @@
+https://github.com/luizomf/projeto-blog-django-23/tree/c39c13bcd2cdee687f5d7ae2fd8b9c8935ddf3a4
+
+Git + Github + SSH (Básico)
+https://www.youtube.com/watch?v=SnTBOhYFr28
+
+Gitignore for a Django project
+https://djangowaves.com/tips-tricks/gitignore-for-a-django-project/
