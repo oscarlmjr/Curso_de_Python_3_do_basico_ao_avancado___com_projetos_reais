@@ -1,0 +1,17 @@
+/* ul li:nth-child(1) { */
+/* ul li:nth-child(even) { */
+p:nth-child(odd) {
+    background-color: rebeccapurple;
+}
+
+p:nth-child(even) {
+    background-color: darkturquoise;
+}
+
+p:nth-child(3n) {
+    background-color: darkolivegreen;
+}
+
+p:nth-child(3n+5) {
+    background-color: darkred;
+}

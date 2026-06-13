@@ -1,0 +1,8 @@
+Media Queries Breakpoints For Responsive Design in 2021
+https://devfacts.com/media-queries-breakpoints-2021/
+
+CSS @media Rule
+https://www.w3schools.com/cssref/atrule_media.php
+
+Usando Media Queries
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Guides/Media_queries/Using

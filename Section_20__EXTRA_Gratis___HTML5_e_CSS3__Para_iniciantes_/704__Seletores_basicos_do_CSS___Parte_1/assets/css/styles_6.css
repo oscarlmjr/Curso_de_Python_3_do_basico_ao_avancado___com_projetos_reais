@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.color-red {
+    color: red;
+}
+
+body.error div.main-content h2.heading {
+    font-style: italic;
+    color: red;
+}
+
+div {
+    color: initial;
+    margin-left: 20px;
+}
+
+/* .pai.filha { */
+/* .pai > .filha { */
+.pai > .filha > span > .filha {
+    color: red;
+}

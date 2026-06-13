@@ -1,0 +1,46 @@
+.heading {
+    /* transition: all 1s ease-in-out; */
+    transition: all 500ms ease-in-out;
+}
+
+.heading:hover {
+    background: red;
+}
+
+a {
+    color: darkorange;
+}
+
+a:link {
+    color: deeppink;
+}
+
+a:visited {
+    color: firebrick;
+}
+
+a:hover {
+    background: darkslateblue;
+    color: white;
+    text-decoration: none;
+}
+
+a:active {
+    background: darkslategray;
+    color: white;
+    text-decoration: none;
+}
+
+/* input:checked { */
+input:checked + p {
+    background: red;
+}
+
+/* .pai .lista li:first-child { */
+.pai .lista li:last-child {
+    background: red;
+}
+
+input:required {
+    background: red;
+}

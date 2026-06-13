@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: sans-serif;
+    font-size: 40px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-template-columns: 200px 1fr 2fr; */
+    /* grid-template-columns: 200px 1fr 1fr; */
+    /* grid-template-columns: 200px 100%; */
+    /* grid-template-columns: 200px 50%; */
+    /* grid-template-columns: 50% 50%; */
+    gap: 30px;
+}
+
+.grid div {
+    background: tomato;
+    min-height: 100px;
+}

@@ -1,0 +1,5 @@
+A11y Checker
+https://achecker.ca/
+
+Validador HTML
+https://validator.w3.org/nu/#textarea

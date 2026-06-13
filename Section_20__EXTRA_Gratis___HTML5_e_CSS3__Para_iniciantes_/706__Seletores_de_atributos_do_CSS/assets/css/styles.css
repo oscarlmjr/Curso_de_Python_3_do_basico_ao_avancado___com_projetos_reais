@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* .pai .um~.dois {
+    color: red;
+} */
+
+.pai .um +.dois {
+    color: red;
+}
+
+/* [meu-atributo] { */
+/* [meu-atributo~="valor1"] { */
+/* [meu-atributo|="qualquercoisa"] { */
+/* [meu-atributo^="comecou"] { */
+/* [meu-atributo^="com"] { */
+/* [meu-atributo$="lll"] { */
+[meu-atributo*="ou out"] {
+    color: red;
+}
+
+[checked] {
+    width: 50px;
+    height: 50px;
+}

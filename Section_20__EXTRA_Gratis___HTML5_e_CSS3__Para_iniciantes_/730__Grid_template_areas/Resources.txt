@@ -1,0 +1,8 @@
+CSS Grid Layout Guide
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+CSS Grid Layout
+https://www.w3schools.com/css/css_grid.asp
+
+grid
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference/Properties/grid

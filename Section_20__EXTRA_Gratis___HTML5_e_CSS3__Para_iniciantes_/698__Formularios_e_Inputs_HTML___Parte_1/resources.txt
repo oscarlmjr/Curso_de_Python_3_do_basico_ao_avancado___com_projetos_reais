@@ -1,0 +1,5 @@
+Como estruturar um formulário HTML
+https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Forms/How_to_structure_a_web_form
+
+HTML Input Types
+https://www.w3schools.com/html/html_form_input_types.asp

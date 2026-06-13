@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.color-red {
+    color: red;
+}
+
+/* .main-content h2 { */
+/* .main-content h2.heading { */
+/* div.main-content h2.heading { */
+body.error div.main-content h2.heading {
+    font-style: italic;
+    color: red;
+}
+
+div {
+    /* color: inherit; */
+    color: initial;
+}
+
+/* .pai { */
+/* .pai .filha { */
+.pai.filha {
+    color: red;
+}

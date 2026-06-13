@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        label {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <form action="#" method="get" target="_blank" autocomplete="off">
+        <p>O meu formulário</p>
+        <p>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" placeholder="Seu nome">
+        </p>
+        <p>
+            <label for="dev1">Sou um dev1:</label>
+            <input type="checkbox" id="dev1" name="dev1" value="sim" checked><br>
+            <label for="dev2">Sou um dev2:</label>
+            <input type="checkbox" id="dev2" name="dev2" value="sim"><br>
+            <label for="dev3">Sou um dev3:</label>
+            <input type="checkbox" id="dev3" name="dev3" value="sim"><br>
+        </p>
+        </p>
+        <p>
+            Gênero:<br>
+            <label for="feminino">Feminino</label>
+            <input type="radio" id="feminino" name="genero" value="sim"><br>
+            <label for="masculino">Masculino</label>
+            <input type="radio" id="masculino" name="genero" value="sim"><br>
+        </p>
+        <p>
+            <label for="date">Data:</label>
+            <input type="date" id="date" name="date" value="2020-04-20">
+        </p>
+        <p>
+            <label for="datetime">Data:</label>
+            <input type="datetime-local" id="datetime" name="datetime" value="2020-04-20T20:00">
+        </p>
+        <p>
+            <button type="reset">Reset</button>
+            <button type="submit">Enviar</button>
+        </p>
+    </form>
+</body>
+</html>

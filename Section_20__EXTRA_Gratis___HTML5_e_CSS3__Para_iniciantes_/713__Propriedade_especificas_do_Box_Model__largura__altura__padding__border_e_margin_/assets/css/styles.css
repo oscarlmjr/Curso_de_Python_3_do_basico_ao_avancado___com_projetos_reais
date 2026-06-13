@@ -1,0 +1,11 @@
+.texto {
+    /* display: block; */
+    /* display: inline; */
+    background: red;
+    width: 200px;
+    height: 200px;
+    /* overflow: hidden; */
+    /* overflow-y: scroll; */
+    /* overflow-y: auto; */
+    overflow: auto;
+}

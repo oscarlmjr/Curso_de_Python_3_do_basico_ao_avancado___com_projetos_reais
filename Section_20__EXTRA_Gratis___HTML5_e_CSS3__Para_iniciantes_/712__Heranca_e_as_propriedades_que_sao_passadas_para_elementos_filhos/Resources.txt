@@ -1,0 +1,8 @@
+CSS inherit Keyword
+https://www.w3schools.com/cssref/css_inherit.php
+
+Cascata, especificidade e herança
+https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts
+
+CSS Inheritance: An Introduction
+https://www.sitepoint.com/css-inheritance-introduction/

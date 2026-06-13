@@ -1,0 +1,2 @@
+:nth-child()
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Reference/Selectors/:nth-child

@@ -1,0 +1,8 @@
+Specificity Calculator
+https://specificity.keegan.st/#google_vignette
+
+Calculating a selector's specificity
+https://www.w3.org/TR/selectors-3/#specificity
+
+Especificidade
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Guides/Cascade/Specificity

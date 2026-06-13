@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    background: yellow;
+}
+
+.flex-item {
+    /* flex-grow: 1;
+    flex-basis: 320px;
+    flex-shrink: 1; */
+    flex: 1 1 320px;
+    height: 200px;
+    color: #fff;
+    background: red;
+}
+
+.flex-item:nth-child(2) {
+    flex: 10 1 320px;
+    background: purple;
+}

@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: sans-serif;
+    font-size: 40px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
+}
+
+.grid {
+    /* width: calc(100% + 30px); */
+    /* width: 1230px; */
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 
+    minmax(320px, 1fr));
+    margin-right: -30px;
+}
+
+.grid div {
+    background: tomato;
+    min-height: 100px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.grid div:nth-child(5) {
+    background: darkred;
+}
