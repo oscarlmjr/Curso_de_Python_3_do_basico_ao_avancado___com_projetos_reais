@@ -1,0 +1,5 @@
+Exception hierarchy
+https://docs.python.org/3/library/exceptions.html#exception-hierarchy
+
+Liskov Substitution Principle ou Princípio da Substituição de Liskov
+https://otaviomiranda.com.br/2025/liskov-substitution-principle-lsp-solid/
