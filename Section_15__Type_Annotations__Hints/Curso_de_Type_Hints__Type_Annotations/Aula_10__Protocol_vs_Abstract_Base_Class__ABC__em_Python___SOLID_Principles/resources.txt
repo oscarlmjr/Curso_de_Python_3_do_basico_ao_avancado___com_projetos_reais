@@ -1,0 +1,2 @@
+SOLID
+https://pt.wikipedia.org/wiki/SOLID
