@@ -1,0 +1,2 @@
+Using isinstance() with protocols
+https://typing.python.org/en/latest/reference/protocols.html#using-isinstance-with-protocols

@@ -20,3 +20,5 @@ print(s1, type(s1), '\n')
 
 s1 = {'Luiz', 1, 2, 3}
 print(s1, type(s1), '\n')
+
+print(s1[1])
