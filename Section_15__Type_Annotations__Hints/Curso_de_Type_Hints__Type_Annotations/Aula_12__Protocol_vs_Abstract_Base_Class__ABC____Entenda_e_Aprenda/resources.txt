@@ -1,0 +1,5 @@
+Template Method Teoria - Padrões de Projeto - Parte 39/45
+https://www.youtube.com/watch?v=-nSOKE4f2gA
+
+Protocols
+https://typing.python.org/en/latest/spec/protocol.html#protocols

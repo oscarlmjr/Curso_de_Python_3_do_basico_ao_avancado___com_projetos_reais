@@ -1,0 +1,5 @@
+Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos
+https://www.amazon.com.br/gp/product/8573076100/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=luizomf-20&creative=9325&linkCode=as2&creativeASIN=8573076100&linkId=64084fd10b2a317ee801179c8245888a
+
+design-patterns-typescript
+https://github.com/luizomf/design-patterns-typescript
