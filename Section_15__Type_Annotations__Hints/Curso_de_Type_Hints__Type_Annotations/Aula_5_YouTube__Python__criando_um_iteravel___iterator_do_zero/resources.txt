@@ -1,0 +1,5 @@
+Python: criando um iterável + iterator do zero (protocolos de métodos mágicos)
+https://www.youtube.com/watch?v=8xnIkjROj_o
+
+python-iterable-iterator.py
+https://gist.github.com/luizomf/9b3d9de89e0321885cf2823b92896e62

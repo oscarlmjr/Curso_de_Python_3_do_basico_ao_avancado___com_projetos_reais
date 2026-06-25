@@ -1,0 +1,5 @@
+Structural Pattern Matching no Python (Match/Case, mais que Swtich/Case)
+https://youtu.be/2f_5LRQV3k0?si=8Lt2T_9Cq0EPcCc7
+
+HTTP response status codes
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
