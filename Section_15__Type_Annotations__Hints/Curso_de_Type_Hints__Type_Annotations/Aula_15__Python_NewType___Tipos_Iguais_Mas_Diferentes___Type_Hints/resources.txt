@@ -1,0 +1,2 @@
+class typing.NewType(name, tp)
+https://docs.python.org/3/library/typing.html#typing.NewType
