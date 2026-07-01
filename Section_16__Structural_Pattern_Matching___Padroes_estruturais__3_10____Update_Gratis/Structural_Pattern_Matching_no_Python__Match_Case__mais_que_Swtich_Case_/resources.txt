@@ -1,3 +1,5 @@
+Section_15__Type_Annotations__Hints > Curso_de_Type_Hints__Type_Annotations > Aula_14_YouTube__Structural_Pattern_Matching_no_Python
+
 Structural Pattern Matching no Python (Match/Case, mais que Swtich/Case)
 https://www.youtube.com/watch?v=2f_5LRQV3k0
 
