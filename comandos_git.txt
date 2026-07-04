@@ -1,0 +1,131 @@
+
+Get-ExecutionPolicy
+Set-ExecutionPolicy AllSigned -Force
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+
+ssh-keygen
+/c/Users/oscar/.ssh/oscarlmjr_note
+ssh-keygen -R 34.55.42.224 
+34.41.57.203
+git init
+git config --global user.name "oscarlmjr"
+git config --global user.email "oscarlmjr@gmailcom"
+* git config --global init.defaultBranch main *
+
+git remote add origin git@github.com:oscarlmjr/Section_11__.git
+git remote set-url origin git@github.com:oscarlmjr/Section_11__.git
+git remote -v
+eval $(ssh-agent)
+ssh-add ~/.ssh/oscarlmjr_note
+
+git pull origin main
+
+git status > git add .> git  commit -m 'Initial commit'
+git push --set-upstream origin main
+git push --set-upstream --force origin develop
+
+git clone git@github.com:oscarlmjr/Section_11__.git
+
+git push --set-upstream --force origin main == git push -u origin main
+
+ git update-ref -d HEAD
+
+git fetch
+git reset --hard origin/main
+
+git ls-files
+git status --ignored
+git ls-files | xargs -n 1 dirname | sort -u
+
+python -m venv .venv
+.venv/Scripts/activate
+
+##########################################
+
+**clone
+git submodule add  https://github.com
+git submodule status
+git submodule update --init --recursive
+
+**renomear
+git mv caminho/para/nome-antigo caminho/para/nome-novo
+**atualizar configurações internas do git
+git config -f .gitmodules submodule.nome-antigo.path caminho/para/nome-novo
+git config -f .gitmodules --rename-section submodule.nome-antigo submodule.nome-novo
+git config --rename-section submodule.nome-antigo submodule.nome-novo
+git  submodule sync
+
+git config --file=.gitmodules submodule.<caminho-do-submodulo>.url <nova-url-remota>
+git submodule sync
+git submodule update --init --recursive --remote
+git add .gitmodules
+git add Section_12__Django_com_Python___Projeto_Blog_
+git commit -m "Renomeia o submódulo de nome-antigo para nome-novo"
+
+cd submodulo/
+git add .
+git commit -m "Sua mensagem de commit"
+git push origin main
+cd  ..
+git add Section_8_aula403
+git commit -m "Atualiza o submódulo para o commit mais recente"
+git push origin main
+
+
+**criar submodule local
+git submodule add  ./Section_8_aula403
+git submodule status
+git submodule update --init --recursive
+git submodule init
+git submodule update
+
+**adiciona o nome do submodulo e do path iguais: nome da pasta local
+**adiciona o nome da url: repositorio remoto 
+git submodule add  Section_8_aula403
+git submodule status
+git submodule sync --recursive
+git submodule update --init --recursive --remote
+
+git add .gitmodules
+git commit -m "Adicionando submódulo e sua URL"
+git commit -m "Atualiza a URL do submódulo"
+git push origin main
+
+
+**paths
+git submodule foreach -q git config remote.origin.url
+git config --file .gitmodules --get submodule.Section_8_aula403.url
+git submodule
+cat .gitmodules
+git config --file .gitmodules --list
+git config --get-regexp submodule\..*\.url
+git config --file .gitmodules --get-regexp path
+git config --file .gitmodules --get-regexp '\.url$'
+
+
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+git submodule deinit -f ./Section_13__projeto-ecommerce
+git rm -f ./Section_13__projeto-ecommerce
+rm -rf .git/modules/./Section_13__projeto-ecommerce
+
+git add .gitmodules
+git commit -m "Removendo submódulo e sua URL"
+git push origin main
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+git clone --recurse-submodules https://github.com
+git submodule init
+git submodule update
+git submodule update --remote
+
+git config --file=.gitmodules submodule.<caminho-do-submodulo>.url <nova-url-remota>
+git submodule sync --recursive
+git add <caminho-do-submodulo> .gitmodules
+git commit -m "Atualiza URL remota do submódulo"
+
+git submodule add https://github.com
+git add .
+git commit -m "Adiciona submódulo"
+git push origin main
