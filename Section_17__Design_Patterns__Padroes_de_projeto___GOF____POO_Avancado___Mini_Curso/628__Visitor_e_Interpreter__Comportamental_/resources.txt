@@ -1,0 +1,6 @@
+Domain-Specific Language - DSL
+Linguagem de domínio específico
+https://pt.wikipedia.org/wiki/Linguagem_de_dom%C3%ADnio_espec%C3%ADfico
+
+Visitor
+https://refactoring.guru/pt-br/design-patterns/visitor
