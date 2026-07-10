@@ -16,6 +16,3 @@
 [submodule "Section_13__projeto-ecommerce"]
 	path = Section_13__projeto-ecommerce
 	url = git@github.com:oscarlmjr/Section_13__projeto-ecommerce.git
-[submodule "Section_17__design_patterns_python"]
-	path = Section_17__design_patterns_python
-	url = git@github.com:oscarlmjr/Python_3_Section_17__design_patterns_python.git
