@@ -1,0 +1,5 @@
+re — Regular expression operations
+https://docs.python.org/3/library/re.html
+
+Regular expression HOWTO
+https://docs.python.org/3/howto/regex.html#regex-howto
