@@ -1,0 +1,8 @@
+https://tools.ietf.org/html/rfc322
+
+Email address
+Local-part
+https://en.wikipedia.org/wiki/Email_address
+
+Email Address Regular Expression That 99.99% Works.
+https://emailregex.com
