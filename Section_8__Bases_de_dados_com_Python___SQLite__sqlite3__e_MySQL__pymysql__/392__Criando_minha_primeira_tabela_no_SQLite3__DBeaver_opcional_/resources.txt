@@ -1,4 +1,11 @@
+Criando minha primeira tabela no SQLite3 (DBeaver opcional)
 https://github.com/luizomf/cursopython2023/commit/5878ec3e5120f27d2b49ba815c8b9ee33c5614d5
+
+SQLite Tutorial
 https://www.techonthenet.com/sqlite/index.php
+
+SQLite Alphabetical List Of Documents
 https://www.sqlite.org/doclist.html
+
+Download DBeaver Community 26.1.2
 https://dbeaver.io/download/

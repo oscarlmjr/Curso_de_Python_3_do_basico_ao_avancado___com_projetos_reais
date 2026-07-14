@@ -1,1 +1,2 @@
+Inserindo valores (INSERT INTO), DELETE sem WHERE e zerando a sqlite_sequence
 https://github.com/luizomf/cursopython2023/commit/f52f4b50c5ff5f111243aeb33d9ee6e050309265
