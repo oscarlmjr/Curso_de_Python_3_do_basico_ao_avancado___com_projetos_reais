@@ -1,0 +1,12 @@
+
+Understanding How Containers Work | Docker, Podman, OCI
+https://www.youtube.com/watch?v=85k8se4Zo70
+
+Streamline development with Docker Desktop’s powerful container tools.
+https://www.docker.com/products/docker-desktop/
+
+Install Docker Engine on Ubuntu
+https://docs.docker.com/engine/install/ubuntu/
+
+WSL2 e Docker no Windows 10 (Instalação)
+https://www.youtube.com/watch?v=05YN8F8ajBc
