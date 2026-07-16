@@ -1,0 +1,2 @@
+Conectando no seu servidor de base de dados MySQL com PyMySQL
+https://github.com/luizomf/cursopython2023/commit/8c342e6875e29816da9443ccfd7f07a9d7837cc2

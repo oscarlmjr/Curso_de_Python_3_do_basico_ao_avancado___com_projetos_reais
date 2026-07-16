@@ -1,0 +1,2 @@
+Criando um .env para evitar enviar senhas e dados sensíveis para o Github
+https://github.com/luizomf/cursopython2023/commit/d2f9495bf591811ba2fe717f002ad42a8743ee0b

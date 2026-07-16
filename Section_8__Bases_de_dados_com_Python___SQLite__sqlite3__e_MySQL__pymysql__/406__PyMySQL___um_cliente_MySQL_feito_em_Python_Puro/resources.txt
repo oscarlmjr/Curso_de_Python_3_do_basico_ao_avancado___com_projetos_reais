@@ -1,0 +1,11 @@
+PyMySQL - um cliente MySQL feito em Python Puro
+https://github.com/luizomf/cursopython2023/commit/0e6fbcfb80ebc96ed8656896b6641498aa9ef272
+
+PyMySQL documentation
+https://pymysql.readthedocs.io/en/latest/
+
+PyMySQL 1.2.0
+https://pypi.org/project/pymysql/
+
+PyMySQL
+https://github.com/PyMySQL/PyMySQL
