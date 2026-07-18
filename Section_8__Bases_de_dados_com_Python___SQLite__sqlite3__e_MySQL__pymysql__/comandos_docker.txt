@@ -1,0 +1,27 @@
+Aceitar conexões de qualquer endereço:
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
+
+Verificar mapeamento de portas:
+docker run -d -p 3306:3306 --base-de-dados -e MYSQL_ROOT_PASSWORD=senha mysql
+
+Deletar volume
+docker compose down -v
+docker compose up -d
+**
+    volumes:
+      - mysql_403:/var/lib/mysql
+volumes:
+  mysql_403:
+**
+Conservar volume
+**
+    volumes:
+      - ./mysql_403:/var/lib/mysql
+**
+
+Acessar terminal
+docker exec -it mysql_403 bash
+mysql -u root -p
+
+docker-compose stop

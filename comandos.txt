@@ -1,0 +1,10 @@
+
+"liveServer.settings.donotShowInfoMsg": true,
+"workbench.iconTheme": "material-icon-theme",
+
+python -c "import string as s;from secrets import SystemRandom as SR;print(''.join(SR().choices(s.ascii_letters+s.digits+s.punctuation,k=64)));"
+
+Get-ExecutionPolicy
+Set-ExecutionPolicy AllSigned -Force
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned

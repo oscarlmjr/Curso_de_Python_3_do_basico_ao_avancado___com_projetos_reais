@@ -1,0 +1,12 @@
+Exibir usuários:
+SELECT User, Host FROM mysql.user;
+
+Alterar senha do root:
+ALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'senha';
+FLUSH PRIVILEGES;
+
+verificar permissões:
+SELECT * FROM mysql.user WHERE User = 'usuario'\G;
+
+
+cmd >> sc delete MySQL80
