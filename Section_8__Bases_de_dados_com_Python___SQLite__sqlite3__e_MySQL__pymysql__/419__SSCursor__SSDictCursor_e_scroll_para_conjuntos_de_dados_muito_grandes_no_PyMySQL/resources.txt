@@ -1,0 +1,2 @@
+SSCursor, SSDictCursor e scroll para conjuntos de dados muito grandes no PyMySQL
+https://github.com/luizomf/cursopython2023/commit/f033d3117c0db206664454fff79716498c8e9e20

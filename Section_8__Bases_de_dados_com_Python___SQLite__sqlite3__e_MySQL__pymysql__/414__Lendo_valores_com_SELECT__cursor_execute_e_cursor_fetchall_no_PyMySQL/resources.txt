@@ -1,0 +1,2 @@
+Lendo valores com SELECT, cursor.execute e cursor.fetchall no PyMySQL
+https://github.com/luizomf/cursopython2023/blob/20f85e42c47d6397ef0c52b67627abfae1d138fb/aula206/main.py#L89

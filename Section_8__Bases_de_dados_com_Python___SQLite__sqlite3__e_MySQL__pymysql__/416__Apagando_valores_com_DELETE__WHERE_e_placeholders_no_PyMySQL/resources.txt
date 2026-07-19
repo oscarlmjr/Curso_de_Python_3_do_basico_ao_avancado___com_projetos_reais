@@ -1,0 +1,2 @@
+Apagando valores com DELETE, WHERE e placeholders no PyMySQL
+https://github.com/luizomf/cursopython2023/commit/6c70e5c143ae50da4bda0d7000a44d0ea5e8457a

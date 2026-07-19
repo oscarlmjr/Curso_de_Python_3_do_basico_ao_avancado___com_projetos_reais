@@ -1,0 +1,2 @@
+Editando com UPDATE, WHERE e placeholders no PyMySQL
+https://github.com/luizomf/cursopython2023/commit/40e12b2e316211051d9cc1062ea0d620975ba272

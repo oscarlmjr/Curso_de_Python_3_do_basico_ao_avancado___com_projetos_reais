@@ -1,0 +1,3 @@
+Trocando o cursor para retornar dicionários - pymysql.cursors.DictCursor
+main
+https://github.com/luizomf/cursopython2023/commit/21cea9e2548667b0671c4439c7117e8012cbca41

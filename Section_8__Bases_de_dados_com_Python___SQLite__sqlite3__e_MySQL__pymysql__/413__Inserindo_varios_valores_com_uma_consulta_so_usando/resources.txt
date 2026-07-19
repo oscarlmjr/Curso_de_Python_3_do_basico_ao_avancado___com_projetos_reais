@@ -1,0 +1,2 @@
+Inserindo vários valores com uma consulta só usando iteráveis ou dicionários
+https://github.com/luizomf/cursopython2023/commit/8b555fb64079455c0c7a05905e650295dee3ebad

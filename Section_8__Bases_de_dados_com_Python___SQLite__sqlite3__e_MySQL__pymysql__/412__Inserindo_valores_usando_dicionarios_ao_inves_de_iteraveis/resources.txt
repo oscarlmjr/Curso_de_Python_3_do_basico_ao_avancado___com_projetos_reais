@@ -1,0 +1,2 @@
+Inserindo valores usando dicionários ao invés de iteráveis
+https://github.com/luizomf/cursopython2023/commit/87b081fd09db5e03d4e65383cbaf1e44c931b85e
