@@ -1,0 +1,2 @@
+Usando python-dotenv e .env com pymysql.connect
+https://github.com/luizomf/cursopython2023/commit/396a377b454c51e4698af17bac30321e2a72e55c

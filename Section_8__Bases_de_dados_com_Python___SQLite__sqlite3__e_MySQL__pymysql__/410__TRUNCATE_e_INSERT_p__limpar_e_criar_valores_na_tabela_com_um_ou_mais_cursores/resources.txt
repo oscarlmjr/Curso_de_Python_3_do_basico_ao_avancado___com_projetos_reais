@@ -1,0 +1,2 @@
+TRUNCATE e INSERT p/ limpar e criar valores na tabela com um ou mais cursores
+https://github.com/luizomf/cursopython2023/commit/f9b0a425e50a1be35866d5aeb5ed64f38bc6daaa

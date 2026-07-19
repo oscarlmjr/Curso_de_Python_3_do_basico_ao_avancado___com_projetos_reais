@@ -1,0 +1,2 @@
+CREATE TABLE para criar tabela com PRIMARY KEY no PyMySQL
+https://github.com/luizomf/cursopython2023/commit/f43b27ee2c16bbf96a81f36c80de4d22f88a12f7
