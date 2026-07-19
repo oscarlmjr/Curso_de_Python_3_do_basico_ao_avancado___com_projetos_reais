@@ -1,0 +1,2 @@
+Evite SQL Injection ao usar placeholders para enviar valores para consulta SQL
+https://github.com/luizomf/cursopython2023/commit/58504588a9b89613c39e5917193c99287c720b9d
