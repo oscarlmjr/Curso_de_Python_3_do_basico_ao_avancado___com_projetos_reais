@@ -1,0 +1,7 @@
+mysql
+Docker Official Image
+MySQL is a widely used, open-source relational database management system (RDBMS).
+https://hub.docker.com/_/mysql
+
+
+https://raw.githubusercontent.com/luizomf/sql-e-knex/master/docker-compose.yml

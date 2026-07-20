@@ -1,0 +1,14 @@
+Ambiente Python Moderno 2025: VS Code, Ruff, Pyright, pyproject.toml e Venv
+https://www.youtube.com/watch?v=QTw5eB6GTM8
+
+Ambiente Python Moderno 2025: Pyenv e Pyenv-win, VS Code, Ruff, Pyright, pyproject.toml
+https://www.youtube.com/watch?v=X38M7C_A2XU
+
+Ambiente Python Moderno 2025: UV, Ruff, Pyright, pyproject.toml e VS Code
+https://www.youtube.com/watch?v=HuAc85cLRx0
+
+Guia do ambiente Python 2025 (seria uma parte 4???)
+https://www.youtube.com/watch?v=TcfFXur4YKg
+
+Ambiente Dev 2026 (neovim, tmux e ghostty) - Ambiente de Desenvolvimento de software
+https://www.youtube.com/watch?v=mhudacg8f_A

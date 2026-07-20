@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/luizomf/sql-e-knex/master/docker-compose.yml
