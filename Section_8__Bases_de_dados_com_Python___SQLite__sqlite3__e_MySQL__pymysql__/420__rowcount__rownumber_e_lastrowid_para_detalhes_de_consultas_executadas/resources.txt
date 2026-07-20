@@ -1,0 +1,2 @@
+rowcount, rownumber e lastrowid para detalhes de consultas executadas
+https://github.com/luizomf/cursopython2023/commit/26d93f2e6cfca7b076dc63649c1bb4aac2828304
