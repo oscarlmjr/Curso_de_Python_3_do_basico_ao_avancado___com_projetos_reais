@@ -5,6 +5,11 @@ FLUSH PRIVILEGES;
 Verificar mapeamento de portas:
 docker run -d -p 3306:3306 --base-de-dados -e MYSQL_ROOT_PASSWORD=senha mysql
 
+docker login
+docker commit 8cbdf986bfa6 oscarlmjr/aula_649:1.0
+docker tag oscarlmjr/aula_649:1.0 oscarlmjr/aula_649:1.0
+docker push oscarlmjr/aula_649:1.0
+
 Deletar volume
 docker compose down -v
 docker compose up -d
