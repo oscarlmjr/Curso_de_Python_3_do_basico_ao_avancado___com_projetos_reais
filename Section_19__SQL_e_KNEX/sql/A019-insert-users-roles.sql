@@ -6,6 +6,7 @@ VALUES
 
 SELECT user_id, role_id  from users_roles WHERE
 user_id = 122 and role_id = 104;
+-- user_id IN (212, 213, 214, 215) and role_id = (103, 104, 105, 106)
 
 -- select id, (select 1) as qualquer from users;
 -- select 1;
