@@ -107,10 +107,12 @@ git config --file .gitmodules --get-regexp '\.url$'
 
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-git submodule deinit -f ./Section_15__ambiente_python_2025
-git rm -f ./Section_15__ambiente_python_2025
-rm -rf .git/modules/./Section_15__ambiente_python_2025
-git config -f .gitmodules --remove-section submodule.Section_15__ambiente_python_2025
+git submodule deinit ./Section_8_aula403
+**********git submodule deinit -f ./Section_8_aula403
+git rm --cached ./Section_8_aula403
+**********git rm -f ./Section_8_aula403
+rm -rf .git/modules/./Section_8_aula403
+git config -f .gitmodules --remove-section submodule.Section_8_aula403
 
 git add .gitmodules
 git commit -m "Removendo submódulo e sua URL"
