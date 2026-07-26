@@ -108,9 +108,9 @@ git config --file .gitmodules --get-regexp '\.url$'
 
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 git submodule deinit ./Section_8_aula403
-**********git submodule deinit -f ./Section_8_aula403
+********** teste para não apagar arquivos ********* git submodule deinit -f ./Section_8_aula403
 git rm --cached ./Section_8_aula403
-**********git rm -f ./Section_8_aula403
+********** teste para não apagar arquivos ********* git rm -f ./Section_8_aula403
 rm -rf .git/modules/./Section_8_aula403
 git config -f .gitmodules --remove-section submodule.Section_8_aula403
 
