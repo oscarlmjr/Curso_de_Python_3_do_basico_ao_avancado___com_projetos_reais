@@ -1,0 +1,5 @@
+.vscode/
+venv/
+.env
+mysql_403/
+db.sqlite3
