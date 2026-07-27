@@ -13,6 +13,7 @@ print('João', 'e', 'Maria', sep='-', end='\n')
 """
 824.176.070-18
 """
+print()
 print('824', '176', '070', sep='.', end='-')
 print('18')
 print('Luiz', 'Otávio', sep='-', end='#####')
@@ -20,5 +21,6 @@ print('João', 'e', 'Maria', sep='\n', end='-')
 """
 824.176.070-18
 """
+print()
 print('824', '176', '070', sep='.', end='-')
 print('18')
